@@ -1,21 +1,21 @@
 ## LOLHunter-亨特儿
 
-## 官方交流群 874311145
+## 官方交流群 [点击申请加群](https://qun.qq.com/universal-share/share?ac=1&authKey=YuXzsP0yEFYMgVc3cdD15fNWvEH5fuD9uum4b9IhXuF0JY5eJdMl7QgXS%2BEHrx%2BE&busi_data=eyJncm91cENvZGUiOiI4NzQzMTExNDUiLCJ0b2tlbiI6Ijl5REZMWEVrQXZWOHNMUmE4YUc4cU5RS1JjbVE3TUs2Tk9ldmtEWnBVZTNvbDVVTTVzWStzb3RZWUtIbzdkSnIiLCJ1aW4iOiIyOTY4MjkwOSJ9&data=y67v92jgny1DHv6ZrDAwluPgG5H5VckcV4FwNslDZMKQlrVXDR1bkcfCh4DvFetPy1x77sZDH0n4mR81cBYvTw&svctype=4&tempid=h5_group_info)
 
 欢迎使用LOLHunter亨特儿，脚本目前支持英雄联盟全模式全自动挂机。并且提供丰富的自定义设置项，使得挂机更加智能以及个性化，帮助您解放双手。脚本仅供测试，请勿用作其他用途。在开始使用之前，请务必阅读该篇文章。
 ___
 ### 更新说明（更新时间 2025年7月）
 - 最新已支持斗魂模式挂机
 
-注意：Github上不再进行维护以及更新，有需要可加群：874311145
+注意：Github上不再进行维护以及更新，有需要可加群：[点击申请加群](https://qun.qq.com/universal-share/share?ac=1&authKey=YuXzsP0yEFYMgVc3cdD15fNWvEH5fuD9uum4b9IhXuF0JY5eJdMl7QgXS%2BEHrx%2BE&busi_data=eyJncm91cENvZGUiOiI4NzQzMTExNDUiLCJ0b2tlbiI6Ijl5REZMWEVrQXZWOHNMUmE4YUc4cU5RS1JjbVE3TUs2Tk9ldmtEWnBVZTNvbDVVTTVzWStzb3RZWUtIbzdkSnIiLCJ1aW4iOiIyOTY4MjkwOSJ9&data=y67v92jgny1DHv6ZrDAwluPgG5H5VckcV4FwNslDZMKQlrVXDR1bkcfCh4DvFetPy1x77sZDH0n4mR81cBYvTw&svctype=4&tempid=h5_group_info)
 
 ### 脚本下载
-[【LOLHunter】【亨特儿】脚本下载地址](https://www.yuque.com/lrony-2qiv1/glt4l4/kz25vhth7ogazlxl)
+[【LOLHunter】【亨特儿】脚本下载地址](https://lolhunter.atomgit.net/docs/private/download/)
 
 加群后联系群主说明是从GitHub来的可免费领取使用卡密【请下载并打开脚本后，截图脚本界面一并发送给群主】
 
 ### 常见问题（使用过程中遇到问题先自行排查）
-[【LOLHunter】【亨特儿】常见问题](https://www.yuque.com/lrony-2qiv1/lolhunter)
+[【LOLHunter】【亨特儿】常见问题](https://lolhunter.atomgit.net/docs/docs/guide-client/q-a-client/)
 
 ### 基础教程
 1. 脚本下载（注意杀软和系统安全中心，别误删了脚本里的文件）
@@ -27,4 +27,4 @@ ___
 7. 以上都确认没问题后，打开游戏大厅，然后在脚本主界面选择需要挂机的模式后即可开始挂机
 8. 长时间挂机并且无人照看的话，为了防止不可预料的情况导致挂机中断，建议开一个远程桌面工具方便操作，可以通过手机等设备操控电脑（例如，向日葵，ToDesk）
 ___
-##### 使用过程遇到问题请先查看：[【LOLHunter】【亨特儿】常见问题](https://www.yuque.com/lrony-2qiv1/lolhunter)
+##### 使用过程遇到问题请先查看：[【LOLHunter】【亨特儿】常见问题](https://lolhunter.atomgit.net/docs/docs/guide-client/q-a-client/)
