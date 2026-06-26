@@ -1,13 +1,13 @@
 ## LOLHunter-亨特儿
 
 ## QQ群（入群密码: hunter）
-- [聊天交流群](https://qun.qq.com/universal-share/share?ac=1&authKey=nJfCLbLF2CAPvpRaUJaCo4RIZ%2BaB8B7fFq9%2B5YUDOsgMPcyauZRkQClhTRD7wab6&busi_data=eyJncm91cENvZGUiOiI4OTc2ODE3MDgiLCJ0b2tlbiI6ImNONTdFZUErTm0rcFcwZGVtMFB5OUpvaHFod2hjYXVwdmw0cTBlN2U5RmhmNmE1M0wrWGdOS2RZcVFLWG4vU2ciLCJ1aW4iOiI1NDE0MTE1In0%3D&data=gdxJ2JaLWZKdoqnxYO5SjLRz8iZyzRnQRr7FN5_JbroBC4atTTJ_LpeZ9I3hLSkIavqLENQ1BmP875u0ZCvJpw&svctype=4&tempid=h5_group_info)
+- [聊天交流群](https://qm.qq.com/q/WqkFt8CP6e)
 - [更新通知群（全体禁言）](https://qun.qq.com/universal-share/share?ac=1&authKey=d4arAD3KmIr2WM62Kwy%2BIZcGc49aUe0Tda3LvMl9vlI%2BOaw%2F%2Fwr5QtKRHROyf1xG&busi_data=eyJncm91cENvZGUiOiI5MzkxMjk2ODgiLCJ0b2tlbiI6IjhROGJnbWZKMlpPNDhVbXNZNFJGdnhyRVo1NSt2ZUVsZWI2ajBlbFgzWHNoOUQ2YTY0RHlMNzdWb2dFS0VQV0ciLCJ1aW4iOiIyOTY4MjkwOSJ9&data=3lWe3MUw_SNnKaLm2PA0h4ZBgRW7o9fjps6ShV5948kPCDSuQPRZaJX3v9K3Upcwgrnk1iz2zUOL6DsjxI82JA&svctype=4&tempid=h5_group_info)
 
 ___
 欢迎使用LOLHunter亨特儿，脚本目前支持英雄联盟全模式全自动挂机。并且提供丰富的自定义设置项，使得挂机更加智能以及个性化，帮助您解放双手。脚本仅供测试，请勿用作其他用途。在开始使用之前，请务必阅读该篇文章。
 ___
-### 更新说明（更新时间 2026年3月）
+### 更新说明（更新时间 2026年6月）
 - 最新已支持斗魂模式挂机
 
 注意：Github上不再进行维护以及更新，有需要可加群。
