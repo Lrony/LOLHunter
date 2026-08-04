@@ -1,7 +1,7 @@
 ## LOLHunter-亨特儿
 
 ## QQ群（入群密码: hunter）
-- [聊天交流群](https://qm.qq.com/q/WqkFt8CP6e)
+- [聊天交流群](https://qm.qq.com/q/UdbVYZkCIi)
 - [更新通知群（全体禁言）](https://qun.qq.com/universal-share/share?ac=1&authKey=d4arAD3KmIr2WM62Kwy%2BIZcGc49aUe0Tda3LvMl9vlI%2BOaw%2F%2Fwr5QtKRHROyf1xG&busi_data=eyJncm91cENvZGUiOiI5MzkxMjk2ODgiLCJ0b2tlbiI6IjhROGJnbWZKMlpPNDhVbXNZNFJGdnhyRVo1NSt2ZUVsZWI2ajBlbFgzWHNoOUQ2YTY0RHlMNzdWb2dFS0VQV0ciLCJ1aW4iOiIyOTY4MjkwOSJ9&data=3lWe3MUw_SNnKaLm2PA0h4ZBgRW7o9fjps6ShV5948kPCDSuQPRZaJX3v9K3Upcwgrnk1iz2zUOL6DsjxI82JA&svctype=4&tempid=h5_group_info)
 
 ___
